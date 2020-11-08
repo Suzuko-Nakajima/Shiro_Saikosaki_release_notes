@@ -98,3 +98,24 @@ Is up to date.
 
 ## Update (GitHub - README release)
 - Self-explanatory, this README has been released in a public repository for the Discord bot "Shiro Saikosaki".
+
+## Update v2020.11.3.1
+- Bug fixes and checks.
+- Exclusive command added.
+
+## Update v2020.11.3.2
+- More bug fixes...
+
+## Update v2020.11.7.1
+- Discord intents
+
+## Update v2020.11.7.3
+- Fixed bot startup.
+
+## Update v2020.11.8.1
+- Updated `help` command; attached a Google document in case the website is down.
+- Updated `think` command; added GIFs.
+- Reduced cooldowns on most commands to at most one minute.
+
+## Update v2020.11.8.2
+- Fixed `think` command not responding.

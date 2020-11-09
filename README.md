@@ -119,3 +119,8 @@ Is up to date.
 
 ## Update v2020.11.8.2
 - Fixed `think` command not responding.
+
+## Update v2020.11.9.1
+- Reduced a cooldown.
+- Fixed a message reading about a two-minute cooldown, it now reads "One-minute" as now accurate.
++ New command: `sleepy` | We all get sleepy, do not deny it...unless you never sleep.

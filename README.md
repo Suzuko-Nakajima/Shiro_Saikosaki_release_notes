@@ -144,3 +144,6 @@ Is up to date.
 ## Update v2020.11.29.1
 * Updated `getavatar`
 - New alias: `aget`
+
+
+Extra: [Discord support server](https://discord.com/invite/tkMMwPY)

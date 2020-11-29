@@ -124,3 +124,23 @@ Is up to date.
 - Reduced a cooldown.
 - Fixed a message reading about a two-minute cooldown, it now reads "One-minute" as now accurate.
 + New command: `sleepy` | We all get sleepy, do not deny it...unless you never sleep.
+
+## Update v2020.11.13.1
+! Silent update. !
+
+## Update v2020.11.22.1
+* Updated IDs
+- + Added one more GIF to `think`.
+
+## Update v2020.11.23.1
+* Updated command: `verify`
++ Rewritten.
+
+## Update v2020.11.25.1
+* Updated the `hug` command.
++ Lifted all conditions on the `hug` command.
+* Revealed the `ff` (or "fun fact") command.
+
+## Update v2020.11.29.1
+* Updated `getavatar`
+- New alias: `aget`

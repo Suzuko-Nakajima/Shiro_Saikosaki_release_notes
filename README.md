@@ -145,5 +145,7 @@ Is up to date.
 * Updated `getavatar`
 - New alias: `aget`
 
+## Update v2020.11.30.1
++ New command: `score` (aliases: `scr` and `bet`)
 
-Extra: [Discord support server](https://discord.com/invite/tkMMwPY)
+Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)

@@ -149,3 +149,12 @@ Is up to date.
 + New command: `score` (aliases: `scr` and `bet`)
 
 Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)
+
+## Update v2020.12.2.1
++ New command: `fg` | Fetches all Discord servers that the bot is in (due to privacy reasons, invite links will **NEVER** be retrieved nor created).
+
+## Update v2020.12.2.5
+! Recognized error!
+
+## Update v2020.12.3.1
++ Added GitHub webhook in main server!

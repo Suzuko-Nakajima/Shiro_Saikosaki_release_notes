@@ -158,3 +158,6 @@ Have a suggestion or any feedback? Join the support server and let me know! [Joi
 
 ## Update v2020.12.3.1
 + Added GitHub webhook in main server!
+
+## Update v2020.12.3.2
++ Enabled all intents.

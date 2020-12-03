@@ -148,8 +148,6 @@ Is up to date.
 ## Update v2020.11.30.1
 + New command: `score` (aliases: `scr` and `bet`)
 
-Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)
-
 ## Update v2020.12.2.1
 + New command: `fg` | Fetches all Discord servers that the bot is in (due to privacy reasons, invite links will **NEVER** be retrieved nor created).
 
@@ -161,3 +159,8 @@ Have a suggestion or any feedback? Join the support server and let me know! [Joi
 
 ## Update v2020.12.3.2
 + Enabled all intents.
+
+## Update v2020.12.4.1
++ Fixed privacy breash violation.
+
+Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)

@@ -163,4 +163,16 @@ Is up to date.
 ## Update v2020.12.4.1
 + Fixed privacy breash violation.
 
+## Update v2020.12.5.1
++ Fixed privacy breach violation.
+
+## Update v2020.12.5.2
++ Fixed embeds.
+
+## Update v2020.12.6.1
+* Updated command: `score`. Scores are now received as percentages.
+* Most error messages will now display as embeds.
+* Command `sayas` no longer has a field that reads "Content:".
++ Some commands will allow you to see whether or not Shiro Saikosaki is computing (typing).
+
 Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)

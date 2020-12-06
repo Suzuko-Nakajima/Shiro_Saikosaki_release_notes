@@ -175,4 +175,7 @@ Is up to date.
 * Command `sayas` no longer has a field that reads "Content:".
 + Some commands will allow you to see whether or not Shiro Saikosaki is computing (typing).
 
+## Update v2020.12.7.1
+* Computing display and delay.
+
 Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)

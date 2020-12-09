@@ -178,4 +178,7 @@ Is up to date.
 ## Update v2020.12.7.1
 * Computing display and delay.
 
+## Update v2020.12.9.1
+* Tweaked commands such as `sea`, `aget`, and `score`! 
+
 Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)

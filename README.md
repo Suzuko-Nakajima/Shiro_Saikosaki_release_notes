@@ -179,6 +179,14 @@ Is up to date.
 * Computing display and delay.
 
 ## Update v2020.12.9.1
-* Tweaked commands such as `sea`, `aget`, and `score`! 
+* Tweaked commands such as `sea`, `aget`, and `score`!
+
+## Update v2020.12.11.1
+* Hotfix!
+Commands:
+* `setnick` = `un`
+* `edittopic` = `echt`
+* `assign_role` = `ar`
+More!
 
 Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)

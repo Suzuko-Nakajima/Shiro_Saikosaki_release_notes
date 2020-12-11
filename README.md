@@ -189,4 +189,13 @@ Commands:
 * `assign_role` = `ar`
 More!
 
+## Update v2020.12.11.2
+* Hotfix update!
+
+## Update v2020.12.11.3 [Advanced!]
+* Command fixes + New command.
++ Command: `cf` (A.K.A. `coin_flip`)
+    Command usage: ./cf "heads" or "tails"
+    Example: ./cf heads
+
 Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)

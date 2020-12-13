@@ -204,4 +204,10 @@ More!
 ## Update v2020.12.13.1
 + Added error handlers for `mute` and `unmute`.
 
+## Update v2020.12.14.2
++ Reimplemented the `mute` and `unmute` command!
+
+## Update v2020.12.14.4
++ Fixed the `mute` and `unmute` commands.
+
 Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)

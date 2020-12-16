@@ -210,4 +210,26 @@ More!
 ## Update v2020.12.14.4
 + Fixed the `mute` and `unmute` commands.
 
+## Update v2020.12.14.7
+New command: `shiro`
+
+## Update v2020.12.15.1
+* Fixes
+
+## Update v2020.12.15.2
+* Fixed cog.
+
+## Update v2020.12.15.3
+New: ???
+
+## Update v2020.12.15.4
+- removed `on_command_error` output.
+
+## Update v2020.12.15.5
++ Reimplemented `Intents`! For some reason `Intents` were left out....this wasn't intentional.
+
+## Update v2020.12.17.1
++ Reimplemented command: `urc` (Update role color)!
+I promise these commands being left out was not intentional!
+
 Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)

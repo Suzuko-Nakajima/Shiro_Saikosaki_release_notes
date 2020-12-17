@@ -232,4 +232,7 @@ New: ???
 + Reimplemented command: `urc` (Update role color)!
 I promise these commands being left out was not intentional!
 
+## Update v2020.12.17.2
+* Fixes
+
 Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)

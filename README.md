@@ -238,4 +238,37 @@ I promise these commands being left out was not intentional!
 ## Update v2021.1.11.6
 ! NOTICE UPDATE !
 
+## Update v2021.1.14.1
+* Fixes
+
+## Update v2021.1.14.1
+* Fixes
+
+## Update v2021.2.9.1
++ New command: rm is a remind command. Format: ./rm <interval; seconds> [reminder] | Example: ./rm 60 Do chores.>
+Same thing with prm, except it uses direct messages between the user and the bot.
+
+## Update v2021.2.14.1
+* Revisions
+- The bot's code is getting a new look for more efficient programming. New features will arrive in future updates soon!
+Command 'ban' now exists.
+
+## Update v2021.2.15.1
++ New commands!
+- lock
+- unlock
+These commands allow you to lock/unlock a specified channel (either by name or ID). It'll modify the @everyone role, disabling messagind and reactions.
+
+## Update v2021.2.20.1
++ New commands: scrim and iscrim!
+Check the command list to see how to use the commands....or...
+Format: ./iscrim <channel ID> <game name; use quotation marks for games like "Rocket League"!> <description - use quotation marks!>
+    
+## Update v2021.3.3.1
++ New commands: scrim and iscrim have been updated!
+Upon use, Shiro will create a role to indicate the party leader, this role can be removed with a new command: cpl.
+Example: ./cpl <voice channel name or ID>
+
+
+
 Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)

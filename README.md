@@ -257,7 +257,7 @@ Command 'ban' now exists.
 + New commands!
 - lock
 - unlock
-These commands allow you to lock/unlock a specified channel (either by name or ID). It'll modify the @everyone role, disabling messagind and reactions.
+// These commands allow you to lock/unlock a specified channel (either by name or ID). It'll modify the @everyone role, disabling messagind and reactions.
 
 ## Update v2021.2.20.1
 + New commands: scrim and iscrim!

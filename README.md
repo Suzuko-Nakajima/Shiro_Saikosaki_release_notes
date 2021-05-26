@@ -269,6 +269,13 @@ Format: ./iscrim <channel ID> <game name; use quotation marks for games like "Ro
 Upon use, Shiro will create a role to indicate the party leader, this role can be removed with a new command: cpl.
 Example: ./cpl <voice channel name or ID>
 
+## Update v2021.5.9.1
++ New commands!
+- attack_user (alias: au)
+- shield (invulnerable to attacks)
+- user_hp (alias: uhp) | Check user health points and shield status.
+- replenish | Replenishes health points if at 0%.
+
 
 
 Have a suggestion or any feedback? Join the support server and let me know! [Join Shiro Saikosaki support server](https://discord.com/invite/tkMMwPY)
